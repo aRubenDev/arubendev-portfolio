@@ -1,0 +1,12 @@
+{
+  "text_desc_prog": "Programador Junior",
+  "text_desc_dev": "Desarrollador Web",
+  "text_card_copyright": "Todos los derechos reservados",
+  "text_card_cta": "Contáctame",
+  "text_lang_es": "Español",
+  "text_lang_en": "Inglés",
+  "main_section": {
+    "text_title": "Introducción",
+    "text_presentation": "¡Hola! Soy {{name}}, un apasionado del desarrollo web"
+  }
+}

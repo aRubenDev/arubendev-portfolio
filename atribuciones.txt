@@ -1,0 +1,9 @@
+Foto de <a href="https://unsplash.com/@pankajpatel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pankaj Patel</a> en <a href="https://unsplash.com/es/fotos/_SgRNwAVNKw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> ---- BG_Principal
+
+Foto de <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> en <a href="https://unsplash.com/es/s/fotos/proyecto?orientation=landscape&utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> ---- BG_Section_Proyects
+
+Foto de <a href="https://unsplash.com/ja/@michaeldolejs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Michael Dolejš</a> en <a href="https://unsplash.com/es/fotos/FRdEUCB3DEU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> ---- BG_Section_Skills
+
+Foto de <a href="https://unsplash.com/@tracycodes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tracy Adams</a> en <a href="https://unsplash.com/es/s/fotos/web-design?orientation=portrait&utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> ---- BG_Section_Services
+
+Foto de <a href="https://unsplash.com/@ptaylor_?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pat Taylor</a> en <a href="https://unsplash.com/es/fotos/12V36G17IbQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> ---- BG_Section_Comingsoon
